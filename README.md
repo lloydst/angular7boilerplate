@@ -1,5 +1,7 @@
-# Ng7tester
+# Ng7
+This boiler plate has a slightly different scss setup instead of using the scss files generated with the component there is a folder in the src called scss. this is where you would import your other scss files. this method means you dont have to declare your scss over and over again. if you want to use it between components. it also alows for a scss 'best practise' 7-1 file setup for your scss files.
 
+## standard ng cli stuff below
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Development server
